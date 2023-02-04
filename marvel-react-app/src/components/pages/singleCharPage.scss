@@ -1,0 +1,13 @@
+.single-char {
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 293px 550px;
+    column-gap: 50px;
+    &__thumbnail {
+        width: 293px;
+        height: 293px;
+    }
+    &__descr {
+        margin-top: 25px;
+    }
+}
