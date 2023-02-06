@@ -4,11 +4,15 @@
 ## js-only-site
 Сайт реализованный без сторонних библиотек, построенный на модульной структуре.
 
+https://asfrolenkov.github.io/buildFolder/js-only/
+
 
 ## employees_template-react-app
 SPA учета сотрудников.
 В этом приложении реализован учет, фильтр и добавление/удаление сотрудников из базы данных(реализованная в виде state в приложении). 
 Приложение построенно на классовых и функциональных компонентах.
+
+https://asfrolenkov.github.io/buildFolder/spa/
 
 
 ## marvel-react-app
