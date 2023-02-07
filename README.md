@@ -19,10 +19,10 @@ https://asfrolenkov.github.io/buildFolder/spa/
 Приложение построенное на открытом Marvel API.
 На сайте можно найти персонажей из вселенной Marvel и комиксы в которых они участвовали.
 В приложении используются такие библиотеки: 
-    + React(основа приложения), 
-    + React Transition Group(простые анимации), 
-    + React Helmet(для управления заголовком страницы), 
-    + formik + yup(для валидации формы).
++ React(основа приложения), 
++ React Transition Group(простые анимации), 
++ React Helmet(для управления заголовком страницы), 
++ formik + yup(для валидации формы).
 https://asfrolenkov.github.io/buildFolder/marvel-app/
 
 
