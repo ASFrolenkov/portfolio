@@ -23,6 +23,7 @@ https://asfrolenkov.github.io/buildFolder/spa/
 + React Transition Group(простые анимации), 
 + React Helmet(для управления заголовком страницы), 
 + formik + yup(для валидации формы).
+
 https://asfrolenkov.github.io/buildFolder/marvel-app/
 
 
