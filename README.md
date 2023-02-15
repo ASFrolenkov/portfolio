@@ -1,5 +1,8 @@
 # Мои учебные работы
 
+Мой GitHub pages
+
+https://asfrolenkov.github.io/buildFolder/
 
 ## js-only-site
 Сайт реализованный без сторонних библиотек, построенный на модульной структуре.
