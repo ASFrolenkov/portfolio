@@ -1,6 +1,8 @@
 # Мои учебные работы
 
-Мой GitHub pages
+##Мой GitHub pages
+
+Нормально отображается при ширине экрана от 920px
 
 https://asfrolenkov.github.io/buildFolder/
 
