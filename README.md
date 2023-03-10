@@ -2,7 +2,7 @@
 
 ## Мой GitHub pages
 
-Нормально отображается при ширине экрана от 920px
+Нормально отображается при ширине экрана от 920px и высоте от 640px
 
 https://asfrolenkov.github.io/buildFolder/
 
