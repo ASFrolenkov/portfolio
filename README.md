@@ -17,6 +17,8 @@ SPA учета сотрудников.
 В этом приложении реализован учет, фильтр и добавление/удаление сотрудников из базы данных(реализованная в виде state в приложении). 
 Приложение построенно на классовых и функциональных компонентах.
 
+(desktop only)
+
 https://asfrolenkov.github.io/buildFolder/spa/
 
 
@@ -28,6 +30,8 @@ https://asfrolenkov.github.io/buildFolder/spa/
 + React Transition Group(простые анимации), 
 + React Helmet(для управления заголовком страницы), 
 + formik + yup(для валидации формы).
+
+(desktop only)
 
 https://asfrolenkov.github.io/buildFolder/marvel-app/
 
